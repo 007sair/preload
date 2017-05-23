@@ -1,9 +1,9 @@
 /**
  * H5图片预加载
  * @参数配置：
- * 		time:       number 		单位时间（毫秒）后取消预加载，防止图片死链接导致无法进入页面
- * 		img:     	array 		存放需要提前加载的图片链接
- * 	 	callback:   function 	预加载完成后的回调函数
+ *   time:        {number} 	单位时间（毫秒）后取消预加载，防止图片死链接导致无法进入页面
+ *   img:         {array} 	存放需要提前加载的图片链接
+ *   callback:    {function} 	预加载完成后的回调函数  
  * @authors Longchan
  */
 
